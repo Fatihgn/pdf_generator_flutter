@@ -1,16 +1,13 @@
-# teklif_siparis_project
+# PDF Generator App Flutter
 
-A new Flutter project.
+https://github.com/Fatihgn/news_app_flutter/assets/116540800/7f9efef3-6c59-4011-831f-cbec9a31573
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Technologies Used in My Project
+•    Flutter
+•    pdf (flutter package)
+•    open_file
+•    path_provider	
+•    printing
+•    google_fonts
